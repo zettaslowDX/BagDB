@@ -1,54 +1,54 @@
 {"CountryCurrencies":[
     {
-        "CountriesCountryId": 1,
+        "id": 1,
         "CurrenciesId": 1
     },
     {
-        "CountriesCountryId": 2,
+        "id": 2,
         "CurrenciesId": 2
     },
     {
-        "CountriesCountryId": 6,
+        "id": 6,
         "CurrenciesId": 2
     },
     {
-        "CountriesCountryId": 15,
+        "id": 15,
         "CurrenciesId": 2
     },
     {
-        "CountriesCountryId": 22,
+        "id": 22,
         "CurrenciesId": 2
     },
     {
-        "CountriesCountryId": 61,
+        "id": 61,
         "CurrenciesId": 2
     },
     {
-        "CountriesCountryId": 72,
+        "id": 72,
         "CurrenciesId": 2
     },
     {
-        "CountriesCountryId": 77,
+        "id": 77,
         "CurrenciesId": 2
     },
     {
-        "CountriesCountryId": 78,
+        "id": 78,
         "CurrenciesId": 2
     },
     {
-        "CountriesCountryId": 79,
+        "id": 79,
         "CurrenciesId": 2
     }
 ],
 "Currencies":[
     {
-        "Id": 1,
+        "id": 1,
         "Name": "Afghan afghani",
         "Symbol": "؋",
         "Code": "AFN"
     },
     {
-        "Id": 2,
+        "id": 2,
         "Name": "Euro",
         "Symbol": "€",
         "Code": "EUR"
@@ -57,43 +57,43 @@
 
 "Countries":[
     {
-        "CountryId": 1,
+        "id": 1,
         "Name": "Afghanistan"
     },
     {
-        "CountryId": 2,
+        "id": 2,
         "Name": "Åland Islands"
     },
     {
-        "CountryId": 6,
+        "id": 6,
         "Name": "Andorra"
     },
     {
-        "CountryId": 15,
+        "id": 15,
         "Name": "Austria"
     },
     {
-        "CountryId": 22,
+        "id": 22,
         "Name": "Belgium"
     },
     {
-        "CountryId": 61,
+        "id": 61,
         "Name": "Cyprus"
     },
     {
-        "CountryId": 72,
+        "id": 72,
         "Name": "Estonia"
     },
     {
-        "CountryId": 77,
+        "id": 77,
         "Name": "Finland"
     },
     {
-        "CountryId": 78,
+        "id": 78,
         "Name": "France"
     },
     {
-        "CountryId": 79,
+        "id": 79,
         "Name": "French Guiana"
     }
 ]}
